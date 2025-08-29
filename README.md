@@ -665,18 +665,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
-
-## 📬 Contact
-
-**Project Link:** [https://github.com/yourusername/av-project-management](https://github.com/yourusername/av-project-management)
-
-**Support Email:** support@avprojectmanagement.com
-
-**Documentation:** [https://docs.avprojectmanagement.com](https://docs.avprojectmanagement.com)
-
----
-
 <div align="center">
 
 **Built with ❤️ by the AV Project Management Team**
